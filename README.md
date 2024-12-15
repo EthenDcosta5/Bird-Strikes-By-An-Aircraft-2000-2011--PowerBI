@@ -79,7 +79,7 @@ For further details, view the full report included in this repository.
 - **Full Analysis Report:** Detailed insights and trends extracted from the bird strike data.
 - **Raw Data Files:** Original data from the FAA for the years 2000-2011.
 - **Dashboard File:** Power BI (.pbix) file for interactive exploration of the dataset.
-- **PDF Report:** [Bird Strikes Dashboard](./Dashboard.pdf)
+- **Dashboard PDF:** [Bird Strikes Dashboard](./Dashboard.pdf)
 
 ---
 
