@@ -97,6 +97,6 @@ For further details, view the full report included in this repository.
 
 ## Links and Socials
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Ethen D'Costa](https://www.linkedin.com/in/ethendcosta/))
+- **Email:** [ethendcosta5@gmail.com](mailto:ethendcosta5@gmail.com)
 
