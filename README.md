@@ -6,23 +6,6 @@ Bird strikes are collisions between birds and aircraft during flight or on takeo
 
 ---
 
-## Detailed Report
-
-### Dashboard Page 1
-
-- **Total Cases and Costs:** 69,000 incidents recorded, costing $142 million in repairs.
-- **Yearly Trends:** Peaks in 2004 and 2010, with the lowest count in 2006.
-- **Operational Impacts:** Most incidents did not cause severe flight disruptions.
-
-### Dashboard Page 2
-
-- **Airline Analysis:** Southwest Airlines reported the most bird strikes, followed by American Airlines.
-- **Phase and Sky Conditions:** Bird strikes are frequent during takeoff, approach, and landing in clear weather conditions.
-
-For further details, view the full report included in this repository.
-
----
-
 ## Key Questions
 
 1. **General Overview**
@@ -55,6 +38,25 @@ For further details, view the full report included in this repository.
 ## Dashboard Overview
 ![Bird Strike Dashboard 1](https://github.com/EthenDcosta5/Bird-Strikes-By-An-Aircraft-2000-2011--PowerBI/blob/main/dashboard-images/D1.jpg)
 ![Bird Strike Dashboard 2](https://github.com/EthenDcosta5/Bird-Strikes-By-An-Aircraft-2000-2011--PowerBI/blob/main/dashboard-images/D2.jpg)
+
+---
+
+## Detailed Report
+
+### Dashboard Page 1
+
+- **Total Cases and Costs:** 69,000 incidents recorded, costing $142 million in repairs.
+- **Yearly Trends:** Peaks in 2004 and 2010, with the lowest count in 2006.
+- **Operational Impacts:** Most incidents did not cause severe flight disruptions.
+
+### Dashboard Page 2
+
+- **Airline Analysis:** Southwest Airlines reported the most bird strikes, followed by American Airlines.
+- **Phase and Sky Conditions:** Bird strikes are frequent during takeoff, approach, and landing in clear weather conditions.
+
+For further details, view the full report included in this repository.
+
+---
 
 ## Insights and Recommendations
 
