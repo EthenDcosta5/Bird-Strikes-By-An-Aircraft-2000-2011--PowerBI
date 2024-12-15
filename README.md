@@ -41,80 +41,117 @@ Bird strikes are collisions between birds and aircraft during flight or on takeo
 
 ---
 
-## Detailed Report
+## Key Insights
 
-### Dashboard 1: Bird Strikes by an Aircraft (2000-2011)
-Key Insights
-Total Overview Metrics:
+### 1. Total Overview Metrics
+- **Total Bird Strike Cases**: 25.43K  
+- **Total Cost in Repairments**: $142M  
+- **Total Birds Struck**: 69K  
 
-Total Bird Strikes Cases: 25.43K
-Total Cost in Repairments: $142M
-Total Birds Struck: 69K
-Number of Birds Struck & Impact to Flight:
+---
 
-A majority of bird strikes caused no significant impact on flights (56K cases).
-Minor impacts include:
-Precautionary Landing: ~7K cases
-Aborted Take-off, Engine Shut Down, and Other impacts were minimal.
-Insight: Most bird strikes do not critically affect flight safety but contribute to repair costs.
+### 2. Number of Birds Struck & Impact to Flight
+- **No Impact**: 56K cases (majority of strikes caused no significant disruption).
+- **Precautionary Landing**: ~7K cases.
+- Other minor impacts include **Aborted Take-off**, **Engine Shutdown**, and **Other Effects**.
 
-Yearly Cost Incurred Due to Bird Strikes:
+**Insight**: Most bird strikes do not critically affect flight safety but contribute significantly to repair costs.
 
-Yearly costs are variable but show a rising trend:
-2002 and 2010 incurred the highest costs (~$6.2K and $7.7K respectively).
-2004 had the lowest yearly cost ($4.3K).
-Yearly Actual Bird Strikes:
+---
 
-Bird strikes generally increased over the years:
-2000: 4.6K
-2010: 7.1K
-Peaks observed in 2008 (7.2K) and 2009 (7.7K).
-Insight: Bird strike cases have been on a rising trend, possibly due to increased air traffic.
+### 3. Yearly Cost Incurred Due to Bird Strikes
+- **2002** and **2010** recorded the **highest yearly costs** ($6.2K and $7.7K respectively).
+- **2004** had the lowest cost at $4.3K.
 
-Cases Where Pilot Was Warned (Y/N):
+**Trend**: Repair costs due to bird strikes have fluctuated but show an upward trajectory.
 
-Pilots Not Warned: 10.86K (42.7%)
-Pilots Warned: 14.57K (57.3%)
-Insight: Pilots were warned in more than half the cases, indicating room for improving warning systems.
+---
 
-Altitude of Bird Strike Cases:
+### 4. Yearly Actual Bird Strikes
+- Bird strikes have been increasing over the years:
+   - **2000**: 4.6K cases
+   - **2010**: 7.1K cases
+- Peaks observed in **2008** (7.2K) and **2009** (7.7K).
 
-Majority of strikes (87.11%) occurred below 1000 ft, while only 12.89% happened above 1000 ft.
-Insight: Bird strikes primarily occur during take-off and landing phases when aircraft operate at lower altitudes.
+**Insight**: The rising trend may correlate with increasing air traffic.
 
-### Dashboard 2: Bird Strikes by an Aircraft (2000-2011)
-Key Insights
-Average Altitude of Aircraft in Different Phases of Strikes:
+---
 
-798.90 ft is the average altitude for bird strikes, reinforcing the finding that strikes occur at low altitudes.
-Number of Bird Strikes in Each State:
+### 5. Cases Where Pilot Was Warned (Y/N)
+- **Pilots Warned**: 57.3% of cases (14.57K).
+- **Pilots Not Warned**: 42.7% of cases (10.86K).
 
-The heatmap shows bird strikes distribution across the United States. Specific states are not labeled but likely represent states with higher air traffic.
-When Do Most Bird Strikes Occur (Sky Conditions)?
+**Insight**: While pilots were warned in most cases, there is room to improve pilot alert systems.
 
-Strikes are most frequent under:
-No Cloud conditions: 12.57K cases
-Some Cloud: 8.66K cases
-Overcast: 4.20K cases
-Insight: Clear skies tend to have the highest frequency of bird strikes, possibly due to birds being more active.
+---
 
-Top 5 Airline Operators in Bird Strikes:
+### 6. Altitude of Bird Strike Cases
+- **Below 1000 ft**: 87.11% of strikes.
+- **Above 1000 ft**: 12.89% of strikes.
 
-Southwest Airlines: 4.6K cases
-Business Jets: 3.1K cases
-American Airlines: 2.1K cases
-Delta Air Lines: 1.3K cases
-American Eagle Airlines: 0.9K cases
-Insight: Larger airlines like Southwest Airlines and American Airlines experience the highest bird strikes, correlating with their extensive flight operations.
+**Insight**: Most strikes occur at lower altitudes during take-off and landing.
 
-When Do Most Bird Strikes Occur (Phase of Light)?
+---
 
-Strikes predominantly occur during:
-Approach Phase: ~10K cases
-Landing Roll: ~5K cases
-Take-off Run: ~4.7K cases
-Climb: ~4.4K cases
-Insight: Bird strikes are most common during approach and landing phases when aircraft descend to low altitudes.
+### 7. Average Altitude of Aircraft in Different Phases of Strikes
+- The average altitude of bird strikes is **798.90 ft**.
+
+---
+
+### 8. Number of Bird Strikes by State
+- Bird strike frequency varies across states, with higher incidences likely in regions with busy airports or dense bird populations.
+
+---
+
+### 9. When Do Most Bird Strikes Occur?
+#### Sky Conditions:
+- **No Cloud**: 12.57K cases.
+- **Some Cloud**: 8.66K cases.
+- **Overcast**: 4.20K cases.
+
+**Insight**: Clear skies are associated with the highest bird strike activity.
+
+#### Phases of Light:
+- **Approach Phase**: ~10K cases.
+- **Landing Roll**: ~5K cases.
+- **Take-off Run**: ~4.7K cases.
+- **Climb**: ~4.4K cases.
+
+**Insight**: Bird strikes are most common during **approach and landing** phases at low altitudes.
+
+---
+
+### 10. Top 5 Airline Operators in Bird Strikes
+- **Southwest Airlines**: 4.6K cases.
+- **Business Jets**: 3.1K cases.
+- **American Airlines**: 2.1K cases.
+- **Delta Air Lines**: 1.3K cases.
+- **American Eagle Airlines**: 0.9K cases.
+
+**Insight**: Major airlines like **Southwest Airlines** and **American Airlines** experience the highest bird strike cases due to extensive operations.
+
+---
+
+## Recommendations
+
+1. **Altitude Awareness**:
+   - Focus on **take-off and landing phases** where strikes are most frequent.
+   - Implement improved bird detection systems below **1000 ft**.
+
+2. **Sky Condition Monitoring**:
+   - Prioritize mitigation efforts during **clear skies** when bird activity is higher.
+
+3. **Cost Management**:
+   - Address rising repair costs through preventive measures like **wildlife management** around airports.
+
+4. **State-Specific Action Plans**:
+   - Implement bird control programs in states with higher bird strike incidents.
+
+5. **Airline Safety Enhancements**:
+   - Airlines with high bird strike cases (e.g., Southwest Airlines) should focus on enhancing detection and avoidance strategies.
+
+6. **Pilot Alert Systems**:
+   - Improve warning systems to ensure more pilots are alerted to potential bird strikes.
 
 ---
 
