@@ -53,8 +53,8 @@ For further details, view the full report included in this repository.
 
 ---
 ## Dashboard Overview
-**PDF Report:** [Bird Strikes Dashboard](https://github.com/EthenDcosta5/Bird-Strikes-By-An-Aircraft-2000-2011--PowerBI/blob/main/Dashboard.pdf)
-
+![Bird Strike Dashboard 1](https://github.com/EthenDcosta5/Bird-Strikes-By-An-Aircraft-2000-2011--PowerBI/blob/main/dashboard-images/D1.jpg)
+![Bird Strike Dashboard 2](https://github.com/EthenDcosta5/Bird-Strikes-By-An-Aircraft-2000-2011--PowerBI/blob/main/dashboard-images/D2.jpg)
 
 ## Insights and Recommendations
 
