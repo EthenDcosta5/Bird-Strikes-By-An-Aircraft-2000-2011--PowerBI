@@ -97,6 +97,6 @@ For further details, view the full report included in this repository.
 
 ## Links and Socials
 
-- **LinkedIn:** [Ethen D'Costa](https://www.linkedin.com/in/ethendcosta/))
+- **LinkedIn:** [Ethen D'Costa](https://www.linkedin.com/in/ethendcosta/)
 - **Email:** [ethendcosta5@gmail.com](mailto:ethendcosta5@gmail.com)
 
