@@ -155,24 +155,6 @@ Bird strikes are collisions between birds and aircraft during flight or on takeo
 
 ---
 
-## Insights and Recommendations
-
-### Insights
-
-- **Altitude and Flight Phases:** 87% of bird strikes occur below 1000 feet, primarily during takeoff and landing phases.
-- **Cost Impact:** Bird strikes have incurred $142 million in repair costs between 2000 and 2011.
-- **Airline Vulnerability:** Southwest Airlines, American Airlines, and Delta Air Lines are the most affected operators.
-- **Environmental Conditions:** Clear skies account for the majority of bird strikes, followed by incidents during cloudy or overcast weather.
-
-### Recommendations
-
-1. **Improved Detection Systems:** Deploy advanced bird detection systems around airports to warn pilots.
-2. **Wildlife Management:** Implement measures to reduce bird activity near runways and low-altitude flight paths.
-3. **Phase-Specific Protocols:** Enhance safety protocols during critical flight phases like takeoff and landing.
-4. **Collaboration with Airlines:** Partner with high-risk airlines to address operational vulnerabilities and refine bird strike response measures.
-
----
-
 ## Repository Contents
 
 - **Full Analysis Report:** Detailed insights and trends extracted from the bird strike data.
